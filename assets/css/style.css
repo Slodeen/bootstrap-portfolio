@@ -1,0 +1,106 @@
+h1{
+    background-color: #4aaaa5;
+    padding: 8px;
+    float: left;
+}
+
+.row{
+
+    background-color: white;
+
+}
+
+.sticky{
+    position: sticky;
+    width: auto;
+    background-color: #666666;
+    bottom: 0;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+
+}
+
+ 
+.nav{
+    float: right;
+    padding: 45px;
+    font-size: 25px;
+    }
+
+.jumbotron{
+
+    margin-left: 150px;
+    padding: 15px;
+    height: 550px;
+}
+
+nav a:hover{
+    background-color: #4aaaa5;
+    color: brown;
+}
+#mypic{
+    width: 100px;
+    padding: 15px;
+    border-color: black;
+    float: left;
+}
+
+.contact{
+    background: white;
+    width: 960px;
+    height: 550px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 50px;
+    }
+
+input{
+    width: 960px;
+    height: 35px;
+    }
+   
+button{
+    border-style: double;
+    background: #4aaaa5;
+    size: 35px;
+    padding: 15px;
+    margin-top: 15px;
+    width: 85px;
+}
+
+.message{
+    height: 150px;
+}
+
+.img2 .img{ 
+    position: relative;
+    margin: 85px
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+    width: 200px;
+    height: 190px;
+    float: left;
+    box-shadow: 0 15px 8px 0 rgba(0, 0, 0, 0.2), 0 15px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+
+.img2 p{
+
+    position: absolute;
+    top: 380px;
+    margin-left: 12px;
+    height: 5%;
+    width: 15%;
+    background: #4aaaa5;
+    font-size: 10px;
+    text-align: center;
+    overflow-wrap: normal;
+
+}
+
+
+
